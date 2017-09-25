@@ -8,7 +8,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.yyread.com/*","https://github.com/*","http://www.csdn.net/*"],
+      "matches": ["http://www.ifeng.com/*","https://github.com/*","http://www.csdn.net/*"],
       "js": ["script.js"]
     }
   ]
